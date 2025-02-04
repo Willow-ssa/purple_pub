@@ -5,8 +5,8 @@
 int main(int argc, char **argv)
 {
     char first[255], last[255];
-    askname(first, last); /*hahaha*/
-    printf("Hello, %s %s!\n", first, last); /*hihihih*/
+    askname(first, last);
+    printf("Hello, %s %s!\n", first, last); /*sasalele*/
     return 0;
     //here
 }
